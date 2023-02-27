@@ -1,7 +1,7 @@
 # Ethernet Echo on VHDL
 Echo implementation on VHDL with Cyclone II (EP2C35) and DM9000A. 
 
-It was a study project for FPGA class, it was coded with my groupmate. For testing we used [Altera DE2 board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=183&No=30&PartNo=1#contents) (caareful, not the Altera DE2-115 or the other versions).
+It was a study project for FPGA class, it was coded with my groupmate. For testing we used [Altera DE2 board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=183&No=30&PartNo=1#contents) (careful, not the Altera DE2-115 or the other versions).
 
 Schematic and summary on Russian can be found [here](https://disk.yandex.ru/d/-lgtGx38ATc5Hg).
 
